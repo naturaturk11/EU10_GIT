@@ -9,6 +9,7 @@ public class TC002 {
         // writing smoke testing
         //good poitn he empheseized
 
+        //cerating the reports
 
 
 
